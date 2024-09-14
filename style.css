@@ -484,6 +484,7 @@ nav h3 {
     }
 
     nav img {
+        width: 5em;
         transition: all ease 0.2s;
         height: 9vh;
     }
@@ -491,7 +492,9 @@ nav h3 {
     #nav-part2 {
         display: none;
     }
-
+    #right span{
+        font-size: 1.2em;
+    }
     nav h3 {
         display: block;
         padding: 3vw 5vw;
@@ -691,4 +694,5 @@ nav h3 {
         font-size: 9vw;
       
     }
+  
 }
