@@ -487,8 +487,11 @@ nav h3 {
         width: 5em;
         transition: all ease 0.2s;
         height: 9vh;
+        filter: drop-shadow(0 0 15px black);
     }
-
+    .project h1{
+        font-size: 4em;
+    }
     #nav-part2 {
         display: none;
     }
